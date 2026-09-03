@@ -1,0 +1,21 @@
+# Zugangsdaten & Secrets
+.env
+*.env
+.env.*
+credentials/
+*credentials*.json
+*secret*
+*.key
+*.pem
+
+# n8n-spezifisch
+.n8n/
+n8n-config/
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Editor-Dateien
+.vscode/
+.idea/
