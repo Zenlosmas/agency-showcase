@@ -16,7 +16,7 @@ Getting started — officially launching the agency at 18. Currently building ou
 
 ## About me
 
-17, running this alongside school and [Ascend](LINK-ZU-ASCEND-REPO), a self-improvement platform I'm building solo. Open to connecting — [LinkedIn](www.linkedin.com/in/carlo-hoppenbrock-868349433).
+17, running this alongside school and [Ascend](https://github.com/Zenlosmas/Ascend.git), a self-improvement platform I'm building solo. Open to connecting — [LinkedIn](www.linkedin.com/in/carlo-hoppenbrock-868349433).
 
 ---
 
